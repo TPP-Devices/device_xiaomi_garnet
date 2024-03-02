@@ -206,6 +206,7 @@ persist.dbg.wfc_avail_ovr=1
 ro.hardware.keystore_desede=true
 
 # Media
+media.stagefright.thumbnail.prefer_hw_codecs=true
 debug.c2.use_dmabufheaps=1
 debug.stagefright.c2inputsurface=-1
 debug.stagefright.ccodec=4
