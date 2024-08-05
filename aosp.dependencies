@@ -1,0 +1,26 @@
+[
+    {
+        "remote": "github",
+        "repository": "TPP-Devices/vendor_xiaomi_garnet",
+        "target_path": "vendor/xiaomi/garnet",
+        "branch": "14"
+    },
+    {
+        "remote": "github",
+        "repository": "TPP-Devices/device_xiaomi_garnet-prebuilt",
+        "target_path": "device/xiaomi/garnet-prebuilt",
+        "branch": "14"
+    },
+    {
+        "remote": "github",
+        "repository": "garnet-sruff/android_hardware_xiaomi",
+        "target_path": "hardware/xiaomi",
+        "branch": "14"
+    },
+    {
+        "remote": "github",
+        "repository": "garnet-sruff/vendor_xiaomi_garnet-miuicamera",
+        "target_path": "vendor/xiaomi/garnet-miuicamera",
+        "branch": "14"
+    }
+]
