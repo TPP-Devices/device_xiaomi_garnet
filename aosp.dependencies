@@ -13,13 +13,13 @@
     },
     {
         "remote": "github",
-        "repository": "garnet-sruff/android_hardware_xiaomi",
+        "repository": "garnet-stuff/android_hardware_xiaomi",
         "target_path": "hardware/xiaomi",
         "branch": "14"
     },
     {
         "remote": "github",
-        "repository": "garnet-sruff/vendor_xiaomi_garnet-miuicamera",
+        "repository": "garnet-stuff/vendor_xiaomi_garnet-miuicamera",
         "target_path": "vendor/xiaomi/garnet-miuicamera",
         "branch": "14"
     }
